@@ -1,2 +1,2 @@
-# spectral-method
-Spectral Methods for Analyzing Communities in a Social Network
+# LSH algorithm
+Nearest Neighbor Classification with Locality Sensitive Hashing
